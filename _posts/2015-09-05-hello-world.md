@@ -5,7 +5,7 @@ date: 2015-09-05
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
-
+^
 $$
 \begin{align*}
   & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
@@ -22,3 +22,4 @@ $$
     \end{array} \right)
 \end{align*}
 $$
+^

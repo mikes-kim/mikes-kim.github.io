@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "asdf"
 date: 2014-04-30
 ---

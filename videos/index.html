@@ -3,9 +3,12 @@ layout: default
 title: Data Drinks Interviews
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="vosts">
+		<div class="about">
+			<p>Youtube Links for Data Drinks Interviews</p>
 
-	  {% for vost in site.vosts %}
-	    <li><span>{{ vost.date | date_to_string }}</span> » <a href="{{ vost.url }}" title="{{ vost.title }}">{{ vost.title }}</a></li>
-	  {% endfor %}
-	</ul>
+			<ul class="contacts">
+				<li><a href="https://www.youtube.com/watch?v=rgf8zRG38vM">S1E1</a></li>
+				<li><a href="https://www.youtube.com/watch?v=yqVlCUQMbLs">S1E2</a></li>
+				<li><a href="https://www.livecoding.tv/video/icdm2015workshop/">S1E3</a></li>
+				</ul>
+		</div>

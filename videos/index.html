@@ -3,7 +3,7 @@ layout: default
 title: Data Drinks Interviews
 ---
 	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<ul class="vosts">
 
 	  {% for vost in site.vosts %}
 	    <li><span>{{ vost.date | date_to_string }}</span> » <a href="{{ vost.url }}" title="{{ vost.title }}">{{ vost.title }}</a></li>

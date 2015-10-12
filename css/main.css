@@ -3,13 +3,15 @@ body {
     width: 70%;
 }
 nav {
-    position:fixed;
-    top:0;
-    width:100%;
-    background-color:#fff;
-    padding-top:10px;
-    padding-bottom:10px;
-    border-bottom:solid 1px #aaa;
+    position: fixed;
+    top: 0;
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    box-shadow: 6px 1px 5px #ccc;
+    left: 0;
+    padding-left: 14%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

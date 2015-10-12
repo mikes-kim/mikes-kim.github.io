@@ -5,6 +5,11 @@ body {
 nav {
     position:fixed;
     top:0;
+    background-color:#fff;
+    opacity:0.8;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-bottom:solid 1px #aaa;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';

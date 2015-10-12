@@ -6,10 +6,10 @@ nav {
     position: fixed;
     top: 0;
     background-color: #fff;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     width: 100%;
-    box-shadow: 6px 1px 5px #ccc;
+    box-shadow: 5px 1px 4px #ccc;
     left: 0;
     padding-left: 14%;
 }

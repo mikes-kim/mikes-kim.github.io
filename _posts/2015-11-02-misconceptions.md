@@ -4,6 +4,7 @@ title: "First hand experience"
 date: 2015-11-02
 ---
 
+<br><br>
 I'm just going to list a few (vague) things I believe you have to experience first hand (even if theoretically justified or not) in ML. Obviously I could write many blog posts on each statement regarding both the theory and practice and edge cases, but for now I'll just leave it here. You don't have to believe me - most secrets are just out in the open:
 1) More data is better than fancy algorithms.
 2) Feature engineering is better than tuning (or usually algorithms).

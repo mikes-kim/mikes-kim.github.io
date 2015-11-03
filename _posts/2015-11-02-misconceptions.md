@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "You need to experience ML directly - not second hand."
+title: "First hand experience"
 date: 2015-11-02
 ---
 
